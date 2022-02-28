@@ -1,0 +1,22 @@
+body{
+        background-color: purple;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.formul{
+    box-shadow: 5px 10px 8px #888888;
+    margin-top: 3%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    padding: 50px;
+}
+
+div{
+    height: 50px;
+    overflow-y: scroll;
+    display: inline-block;
+}
+
